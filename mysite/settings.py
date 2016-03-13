@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'America\Maceio'
+TIME_ZONE = 'America/Maceio’'
 
 USE_I18N = True
 
